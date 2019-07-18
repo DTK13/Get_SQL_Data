@@ -1,0 +1,14 @@
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.exe.config
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.exe
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.pdb
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.csprojAssemblyReference.cache
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.csproj.CoreCompileInputs.cache
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.exe
+C:\Users\DR\AppData\Local\Temporary Projects\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.pdb
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.exe.config
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.exe
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\bin\Debug\exe_Sql_Data_Extractor.pdb
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.csprojAssemblyReference.cache
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.csproj.CoreCompileInputs.cache
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.exe
+C:\Users\DR\source\repos\exe_Sql_Data_Extractor\exe_Sql_Data_Extractor\obj\Debug\exe_Sql_Data_Extractor.pdb
